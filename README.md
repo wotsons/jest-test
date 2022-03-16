@@ -1,2 +1,2 @@
-# npm i
-# npm test
+-npm i
+-npm test
